@@ -1,7 +1,7 @@
 Software Foundations Solutions
 ==============================
 
-My solutions to exercises in [*Software Foundations* by Benjamin C. Pierce et al.](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
+My solutions to exercises in [*Software Foundations*](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html) by Benjamin C. Pierce et al.
 
 Sometimes you get stuck and looking though the varied solutions to a difficult problem online helped me grock its point.
 
